@@ -98,7 +98,7 @@ A **well-designed semiconductor package** must meet several fundamental criteria
 - Provide **high-density routing and isolation**.  
 - Enable integration of dies with **different technologies** (e.g., DRAM + Logic).
 
-- | Type | Application |
+| Type | Application |
 |------|------------|
 | Organic Interposer | Cost-effective, moderate-speed routing |
 | Silicon Interposer | Ultra-dense, high-speed interconnects |
@@ -187,7 +187,6 @@ By completing **Module 1**, learners will gain:
 - Knowledge of **2D / 2.3D / 2.5D / 3D integration architectures**  
 - Awareness of **reliability and thermal considerations**  
 - Foundation for **ANSYS Electronics Desktop modeling and simulation labs**
-- 
 
 
 
