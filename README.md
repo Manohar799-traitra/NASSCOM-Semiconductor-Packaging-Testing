@@ -157,5 +157,36 @@ Standards followed include **JEDEC, AEC-Q100, MIL-STD, and ISO/IEC**.
 - Packaging design toolkits  
 - JEDEC reliability frameworks  
 
+## 🧑‍💻 Ideal For
 
+- **Students & Engineers** stepping into semiconductor packaging, reliability, or Design for Test (DFT)  
+- **Anyone learning ANSYS** for thermal, electrical, or multiphysics simulations  
+- **Recruiters or professionals** seeking evidence of hands-on experience in semiconductor packaging  
+
+This repository is perfect for building a solid foundation while exploring **real-world workflows, simulations, and package modeling**.
+
+---
+
+## 🤝 Contributions
+
+This repo represents my **personal learning journey** from the VSD Corp. workshop.  
+I warmly welcome **suggestions, corrections, and extensions** — feel free to **raise issues, propose improvements, or start discussions**. Every contribution helps make this resource even more useful for the community!  
+
+---
+
+## ⭐ Like This Repository?
+
+If this repository helped you **better understand semiconductor packaging**, please ⭐ it!  
+Your support motivates me to **add more simulations, visuals, detailed notes, and advanced tutorials** for everyone interested in semiconductor design and testing.
+
+---
+
+## 📝 Author & Acknowledgments
+
+**Author:** BODDETY SURYA PRAKASH SAI MANOHAR  
+
+**Acknowledgments:** Mr. Kunal Ghosh  
+
+**Reference:** Packaging Fundamentals of Design and Testing Program  
+[https://github.com/kunalg123/vsdflow](https://github.com/kunalg123/vsdflow)
 
