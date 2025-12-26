@@ -1,4 +1,4 @@
-# Day 05 - Package Design and Modelling: Building a Semiconductor Package from Scratch
+# Module 05 - Package Design and Modelling: Building a Semiconductor Package from Scratch
 
 This lab focuses on **designing and modelling a complete semiconductor package** from the ground up using **ANSYS Electronics Desktop (AEDT)**. The session covers **die and substrate creation**, **die attach material (DAM)**, **bond pads**, **wire bonds**, and **mold compound encapsulation**, preparing the model for further thermal, electrical, and mechanical simulations.
 
