@@ -188,6 +188,6 @@ By completing **Module 1**, learners will gain:
 - Awareness of **reliability and thermal considerations**  
 - Foundation for **ANSYS Electronics Desktop modeling and simulation labs**
 - 
-# 🗓 Module 1: Packaging Evolution – From Basics to 3D & Chiplet Integration
+
 
 
