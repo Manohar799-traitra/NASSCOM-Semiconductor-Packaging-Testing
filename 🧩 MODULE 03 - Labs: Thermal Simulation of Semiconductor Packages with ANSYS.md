@@ -1,4 +1,4 @@
-# Day 03 - Labs: Thermal Simulation of Semiconductor Packages with ANSYS Icepak
+# Module 03 - Labs: Thermal Simulation of Semiconductor Packages with ANSYS Icepak
 
 This lab focuses on performing thermal analysis of semiconductor packages using **ANSYS Icepak**, a tool within **ANSYS Electronics Desktop (AEDT)**. The main goal is to simulate the thermal behavior of a **Flip-chip BGA (Ball Grid Array) package** under specified conditions.
 
