@@ -1,5 +1,4 @@
-# 🗓 MODULE 1  
-# Packaging Evolution – From Basics to 3D & Chiplet Integration
+# 🗓 Module 1: Packaging Evolution – From Basics to 3D & Chiplet Integration
 
 ---
 
@@ -81,11 +80,11 @@ These architectures enable modern AI accelerators, GPUs, and HBM-based processor
 
 ## 📚 Reference Knowledge
 
-**Reference-1: JEDEC Packaging Roadmap**  
-Packaging is now the primary performance scaling technology enabling heterogeneous integration, chiplet design, and high-bandwidth systems.
+- **Reference-1: JEDEC Packaging Roadmap**  
+  Packaging is now the primary performance scaling technology enabling heterogeneous integration, chiplet design, and high-bandwidth systems.
 
-**Reference-2: 2.5D GPU & HBM Architecture Studies**  
-High-bandwidth memory GPUs use silicon interposers to achieve terabytes-per-second bandwidth with low power.
+- **Reference-2: 2.5D GPU & HBM Architecture Studies**  
+  High-bandwidth memory GPUs use silicon interposers to achieve terabytes-per-second bandwidth with low power.
 
 ---
 
@@ -96,6 +95,4 @@ By completing Day-1, learners gain:
 - Strong understanding of modern packaging ecosystems  
 - Knowledge of 2D / 2.3D / 2.5D / 3D integration  
 - Awareness of packaging reliability challenges  
-- Foundation for ANSYS-based modeling labs  
-
----
+- Foundation for ANSYS-based modeling labs
