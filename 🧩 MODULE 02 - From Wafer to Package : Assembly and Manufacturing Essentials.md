@@ -1,4 +1,4 @@
-# 🗓 DAY 02  
+# 🗓 Module 02  
 # From Wafer to Package – Assembly, Manufacturing & Integration
 
 ---
