@@ -1,4 +1,4 @@
-# Day 04 - Ensuring Package Reliability: Testing and Performance Validation
+# Module 04 - Ensuring Package Reliability: Testing and Performance Validation
 
 This lab focuses on **package testing, electrical functionality checks, and reliability validation** of semiconductor devices. It provides an in-depth understanding of how integrated circuits (ICs) are verified before shipment and how long-term reliability is assessed.
 
